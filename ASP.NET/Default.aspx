@@ -4,6 +4,7 @@
     <div>
         <asp:Localize Text="<%$ Resources: Resource, Home_Page %>" runat="server"></asp:Localize><br />
     </div>
+    <div>Привет меня зовут FIO</div>
     <div>Привет, меня зовут ФИО</div>
     <div>Пока</div>
 </asp:Content>
